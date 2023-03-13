@@ -1,0 +1,2 @@
+# IntelliRefactor
+一种基于类级网络的软件系统半自动化重构方法IDEA实现插件
