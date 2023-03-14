@@ -1,12 +1,7 @@
 <h1> <img align="left" width="50" height="50" src="https://s3-eu-west-1.amazonaws.com/public-resources.ml-labs.aws.intellij.net/static/intellij-deodorant/icon.svg" alt="IntelliJDeodorant Icon"> IntelliJDeodorant </h1>
 
-[![JB Research](https://jb.gg/badges/research-flat-square.svg)](https://research.jetbrains.org/)
-[![CircleCI](https://img.shields.io/circleci/build/github/JetBrains-Research/IntelliJDeodorant.svg?style=flat-square)](https://circleci.com/gh/JetBrains-Research/IntelliJDeodorant)
-[![Gitter](https://badges.gitter.im/intellijdeodorant/community.svg)](https://gitter.im/intellijdeodorant/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/14016-intellijdeodorant.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/14016-intellijdeodorant)
 
 一种基于类级网路的软件系统半自动化重构方法IDEA实现插件
-
 
 <p align="center">
   <img src="https://s3-eu-west-1.amazonaws.com/public-resources.ml-labs.aws.intellij.net/static/intellij-deodorant/long-method.gif" width="90%"/>
