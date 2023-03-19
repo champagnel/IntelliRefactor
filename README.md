@@ -3,10 +3,6 @@
 
 一种基于类级网路的软件系统半自动化重构方法IDEA实现插件
 
-<p align="center">
-  <img src="https://s3-eu-west-1.amazonaws.com/public-resources.ml-labs.aws.intellij.net/static/intellij-deodorant/long-method.gif" width="90%"/>
-</p>
-
 ## Supported Refactoring Dimensions
 本插件目前支持两种重构维度：高内聚低耦合、代码可读性
 
